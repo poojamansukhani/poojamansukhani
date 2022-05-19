@@ -9,15 +9,18 @@ Technologies: </br>
   <li>HTMl, CSS, SCSS, Animated websites</li>
   <li>Javascript, jQuery, Typescript</li>
   <li>Angular, React</li>
+  <li>SQL, Node JS</li>
 </ul>
 
 Also interested in:
 <ul>
   <li>Digital Marketing, SEO, Blogging, Wordpress, AWS</li>
 </ul>
-🔭 I’m currently working on: Angular, Html, Scss, Typescript
+🔭 I’m currently working on: Angular, Html, Scss, Typescript, Node JS
 </br>
-🌱 I’m currently learning : AWS
+✔️ AZ-900
+</br>
+✔️ PL-900
 </br></br>
 Cheers,</br>
 Pooja Mansukhani 
