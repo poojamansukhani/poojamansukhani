@@ -2,7 +2,7 @@
 I dream my development & then I develop my dream :wink: </br>
 I'm an Engineer by profession ⚡ </br>
 
-6 years of experience :sparkles::sparkles:</br>
+6+ years of experience :sparkles::sparkles:</br>
 
 Technologies: </br>
 <ul>
@@ -16,7 +16,9 @@ Also interested in:
 <ul>
   <li>Digital Marketing, SEO, Blogging, Wordpress, AWS</li>
 </ul>
-🔭 I’m currently working on: Angular, Html, Scss, Typescript, Node JS
+🔭 I’m currently working on: Angular, Html, Scss, Typescript, Ng-Bootstrap
+</br>
+🔭 I’m currently learning: Node JS, Mongo DB, Mongoose, express
 </br>
 ✔️ AZ-900
 </br>
