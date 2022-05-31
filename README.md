@@ -21,6 +21,8 @@ Also interested in:
 ✔️ AZ-900
 </br>
 ✔️ PL-900
+</br>
+✔️ SC-900
 </br></br>
 Cheers,</br>
 Pooja Mansukhani 
