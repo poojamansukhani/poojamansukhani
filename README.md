@@ -20,6 +20,9 @@ Also interested in:
 </br>
 🔭 I’m currently learning: Node JS, Mongo DB, Mongoose, express
 </br>
+</br>
+Completed following certifications : 
+</br>
 ✔️ AZ-900
 </br>
 ✔️ PL-900
