@@ -3,8 +3,10 @@ I dream my development & then I develop my dream :wink: </br>
 I'm an Engineer by profession ⚡ </br>
 
 6+ years of experience :sparkles::sparkles:</br>
-
-Technologies: </br>
+🔭 I’m currently working on: Angular, Html, Scss, Typescript, Ng-Bootstrap
+</br>
+🔭 I’m currently learning: Node JS, Mongo DB, Mongoose, express
+## Technologies:
 <ul>
   <li>HTMl, CSS, SCSS, Animated websites</li>
   <li>Javascript, jQuery, Typescript</li>
@@ -12,23 +14,22 @@ Technologies: </br>
   <li>SQL, Node JS</li>
 </ul>
 
-Also interested in:
+## Also interested in:
 <ul>
   <li>Digital Marketing, SEO, Blogging, Wordpress, AWS</li>
 </ul>
-🔭 I’m currently working on: Angular, Html, Scss, Typescript, Ng-Bootstrap
-</br>
-🔭 I’m currently learning: Node JS, Mongo DB, Mongoose, express
-</br>
-</br>
-Completed following certifications : 
-</br>
+
+## Completed following certifications
 ✔️ AZ-900
 </br>
 ✔️ PL-900
 </br>
 ✔️ SC-900
-</br></br>
+
+
+## Contribution Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=poojamansukhani&theme=dracula&hide_border=true)
+</br>
 Cheers,</br>
 Pooja Mansukhani 
 
